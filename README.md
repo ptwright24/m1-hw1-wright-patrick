@@ -5,7 +5,9 @@
 
 ## About Me ##
 ----
-Hi my name is Patrick. I live in Huntersville, NC, with my wife and 2-year-old daughter. This is my final semester in UF's Public Interest Communications master's program, and this is my final course requirement for my Web Design certificate. I'm looking forward to learning how to code!
+Hi, my name is Patrick! I live in Huntersville, NC, with my wife and 2-year-old daughter. Like the image above, I'd like to think of myself as more of a Will, but deep down, I know I'm more of a Carlton dressed up as a Will. 
+
+This is my final semester in UF's Public Interest Communications master's program, and this is my final course requirement for my Web Design certificate. I'm looking forward to learning how to code!
 
 <br>
 
