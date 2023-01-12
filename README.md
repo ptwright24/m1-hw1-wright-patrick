@@ -1,5 +1,5 @@
 # My First Coding Assignment #
-<div class="tenor-gif-embed" data-postid="14465244" data-share-method="host" data-aspect-ratio="1.06312" data-width="100%"><a href="https://tenor.com/view/willy-bel-air-fresh-prince-dancing-gif-14465244">Willy Bel Air GIF</a>from <a href="https://tenor.com/search/willy-gifs">Willy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![pic alt](https://th.bing.com/th/id/R.9a6ab5f4058252a0ada63d1d69fc6e3d?rik=A3PE6VmBBkXVCA&pid=ImgRaw&r=0)
 
 <br> 
 
