@@ -1,5 +1,5 @@
 # My First Coding Assignment #
-![pic alt](https://th.bing.com/th/id/R.9a6ab5f4058252a0ada63d1d69fc6e3d?rik=A3PE6VmBBkXVCA&pid=ImgRaw&r=0)
+![pic alt](https://th.bing.com/th/id/R.9a6ab5f4058252a0ada63d1d69fc6e3d?rik=A3PE6VmBBkXVCA&pid=ImgRaw&r=0 "Carlton Banks in funny clothes")
 
 <br> 
 
