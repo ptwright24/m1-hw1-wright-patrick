@@ -1,13 +1,11 @@
 # My First Coding Assignment #
-![pic alt](https://th.bing.com/th/id/R.9a6ab5f4058252a0ada63d1d69fc6e3d?rik=A3PE6VmBBkXVCA&pid=ImgRaw&r=0 "Carlton Banks in funny clothes")
+![Will Smith Dancing.gif](https://th.bing.com/th/id/R.8aa54042c62f367bf41b1c251d4635c5?rik=%2bBQzKYeZYvvvpQ&riu=http%3a%2f%2f31.media.tumblr.com%2fd3a5d9d21632f41548f9f3d312c92931%2ftumblr_ms0j3gVxvH1r5r4uyo1_500.gif&ehk=P5W32etIW6JxucieIaoOvDldXw0hGvLmePDVKDn6l38%3d&risl=&pid=ImgRaw&r=0 "Will Smith Dancing")
 
 <br> 
 
 ## About Me ##
 ----
-Hi, my name is Patrick! I live in Huntersville, NC, with my wife and 2-year-old daughter. Like the image above, I'd like to think of myself as more of a Will, but deep down, I know I'm more of a Carlton dressed up as a Will. 
-
-This is my final semester in UF's Public Interest Communications master's program, and this is my final course requirement for my Web Design certificate. I'm looking forward to learning how to code!
+Hi, my name is Patrick! I live in Huntersville, NC, with my wife and 2-year-old daughter. This is my final semester in UF's Public Interest Communications master's program, and this is my final course requirement for my Web Design certificate. I'm looking forward to learning how to code!
 
 <br>
 
